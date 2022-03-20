@@ -1,6 +1,5 @@
-# wsdireto
-Exemplo de um webservice usando apenas a linguagem harbour
-==========================================================
+#Criando um webservice usando apenas a linguagem Harbour
+=========================================================
 
 Componentes utilizados:
 1. mod_harbour 2.0
